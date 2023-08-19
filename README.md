@@ -38,7 +38,7 @@ Modify the parameter `cr`, which is the compression rate, in Line 53 of the file
 ```
 
 ## Dataset
-The videos used in our experiments are available at [OneDrive](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/zhaoyp_connect_hku_hk/EUiZDLQQxCFEmPHHeGf-sFIBjMAIfffMQN4KA_fbcQjceg?e=CsQVL8) and Baidu Netdisk (to appear soon).
+The videos used in our experiments are available at [OneDrive](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/zhaoyp_connect_hku_hk/EUiZDLQQxCFEmPHHeGf-sFIBjMAIfffMQN4KA_fbcQjceg?e=CsQVL8).
 
 Please extract `video.zip` to `video` folder.
 
