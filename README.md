@@ -44,3 +44,15 @@ Please extract `video.zip` to `video` folder.
 
 ## Citation
 Cite our paper if you find it interesting!
+
+```
+@INPROCEEDINGS{10302598,
+  author={Zhao, Yaping and Zeng, Qunsong and Lam, Edmund Y.},
+  booktitle={2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)}, 
+  title={Adaptive Compressed Sensing for Real-Time Video Compression, Transmission, and Reconstruction}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/DSAA60987.2023.10302598}}
+```
