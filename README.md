@@ -5,11 +5,16 @@ In this repository we provide code of the paper:
 > 
 > Yaping Zhao, Qunsong Zeng, Edmund Y. Lam
 > 
-> arxiv link: to appear soon
+> paper link: https://ieeexplore.ieee.org/abstract/document/10302598
 
 <p align="right">
   <img src="teaser.png" />
 </p>
+
+## Dataset
+The videos used in our experiments are available at [OneDrive](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/zhaoyp_connect_hku_hk/EUiZDLQQxCFEmPHHeGf-sFIBjMAIfffMQN4KA_fbcQjceg?e=CsQVL8).
+
+Please extract `video.zip` to `video` folder.
 
 ## Usage
 ### Reproduce Paper Results
@@ -36,11 +41,6 @@ Modify the parameter `cr`, which is the compression rate, in Line 53 of the file
     meas_num = img_num // cr
 ......
 ```
-
-## Dataset
-The videos used in our experiments are available at [OneDrive](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/zhaoyp_connect_hku_hk/EUiZDLQQxCFEmPHHeGf-sFIBjMAIfffMQN4KA_fbcQjceg?e=CsQVL8).
-
-Please extract `video.zip` to `video` folder.
 
 ## Citation
 Cite our paper if you find it interesting!
